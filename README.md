@@ -4,7 +4,7 @@
 
 # Hi, I'm Fajar 👋
 
-### Web Developer | Laravel & Backend Development
+### Web Developer 
 
 Building web applications and exploring new technologies.
 
@@ -18,7 +18,6 @@ Building web applications and exploring new technologies.
 
 - 🌱 Interested in Web Development.
 - 💻 Focused on building web applications.
-- 🚀 Currently exploring Laravel and backend development.
 - 📚 Always learning and improving my programming skills.
 - 🎯 Interested in creating useful and efficient digital solutions.
 
